@@ -23,3 +23,4 @@ One line per recipe: file, title, total time, tags.
 - `recipes/banana-cream-pie.md`: Banana Cream Pie, 40m, dessert, pie, banana, no-bake-filling
 - `recipes/best-lemonade-ever.md`: Best Lemonade Ever, 4h 35m, drink, lemonade, summer
 - `recipes/best-slow-cooker-french-dip-sandwiches.md`: Best Slow Cooker French Dip Sandwiches, beef, slow-cooker, sandwich, french-dip
+- `recipes/boeuf-bourguignon.md`: Boeuf Bourguignon, beef, stew, french, dutch-oven
