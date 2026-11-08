@@ -61,3 +61,4 @@ One line per recipe: file, title, total time, tags.
 - `recipes/peanut-butter-chocolate-chip-cookies.md`: Peanut Butter Chocolate Chip Cookies, cookies, dessert, peanut-butter, chocolate-chip
 - `recipes/peanut-butter-cookies-2.md`: Peanut Butter Cookies 2, cookies, dessert, peanut-butter, sweets
 - `recipes/peanut-sauce.md`: Peanut Sauce, sauce, peanut, quick, blender, make-ahead
+- `recipes/peppermint-bavarian-cream-pie.md`: Peppermint Bavarian Cream Pie, 9h 10m, dessert, pie, peppermint, chocolate, christmas, no-bake
