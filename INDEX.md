@@ -39,3 +39,4 @@ One line per recipe: file, title, total time, tags.
 - `recipes/crockpot-french-dip-sandwiches.md`: Crockpot French Dip Sandwiches, beef, crockpot, slow-cooker, sandwich, french-dip
 - `recipes/dill-bread.md`: Dill Bread, bread, yeast, dill, loaf
 - `recipes/easy-homemade-beef-stroganoff.md`: Easy Homemade Beef Stroganoff, 30m, beef, stroganoff, dinner, skillet, noodles
+- `recipes/easy-pizza-sauce.md`: Easy Pizza Sauce, 5m, sauce, pizza, quick, blender
