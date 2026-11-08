@@ -54,3 +54,4 @@ One line per recipe: file, title, total time, tags.
 - `recipes/it-s-way-better-than-thanksgiving-turkey-turkey.md`: It's Way Better Than Thanksgiving Turkey Turkey, 4h 15m, turkey, poultry, roast, gravy, holiday
 - `recipes/korean-bbq-short-ribs-gal-bi.md`: Korean BBQ Short Ribs (Gal-Bi), 7h 25m, beef, korean, short-ribs, grill, marinade
 - `recipes/north-dakota-caramel-rolls.md`: North Dakota Caramel Rolls, rolls, caramel, breakfast, yeast, north-dakota
+- `recipes/old-fashioned-potato-cakes.md`: Old Fashioned Potato Cakes, 20m, potato, side-dish, pancakes, quick
