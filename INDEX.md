@@ -34,3 +34,4 @@ One line per recipe: file, title, total time, tags.
 - `recipes/cherry-limeade-i.md`: Cherry Limeade I, 5m, drink, limeade, cherry, party
 - `recipes/chicago-style-deep-dish-pizza.md`: Chicago-Style Deep-Dish Pizza, pizza, deep-dish, chicago, yeast, dinner
 - `recipes/chicken-hot-dish.md`: Chicken Hot Dish, chicken, hot-dish, casserole
+- `recipes/classic-smash-burger.md`: Classic Smash Burger, burger, beef, grill, dinner
