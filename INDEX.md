@@ -76,3 +76,4 @@ One line per recipe: file, title, total time, tags.
 - `recipes/russian-mushroom-and-potato-soup.md`: Russian Mushroom and Potato Soup, 1h, soup, mushroom, potato, vegetable, fall
 - `recipes/steak-gorgonzola.md`: Steak Gorgonzola, beef, steak, pasta, gorgonzola, dinner
 - `recipes/steak-with-garlic-cream-sauce.md`: Steak with Garlic Cream Sauce, 30m, beef, steak, cream-sauce, garlic, quick
+- `recipes/strawberry-rhubarb-pie.md`: Strawberry Rhubarb Pie, 1h 10m, dessert, pie, rhubarb, strawberry
