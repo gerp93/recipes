@@ -79,3 +79,4 @@ One line per recipe: file, title, total time, tags.
 - `recipes/strawberry-rhubarb-pie.md`: Strawberry Rhubarb Pie, 1h 10m, dessert, pie, rhubarb, strawberry
 - `recipes/taco-pie.md`: Taco Pie, 40m, beef, taco, casserole, dinner, cookbook
 - `recipes/the-best-pizza-dough-recipe.md`: The Best Pizza Dough Recipe, 30m, pizza, dough, yeast, quick
+- `recipes/the-best-way-to-cook-absolutely-perfect-filet-mignon.md`: The Best Way to Cook Absolutely Perfect Filet Mignon, beef, steak, filet-mignon, cast-iron, dinner
