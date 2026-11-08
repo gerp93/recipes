@@ -1,0 +1,26 @@
+---
+title: Old Fashioned Potato Cakes
+serves: 4
+total_time: 20m
+tags: [potato, side-dish, pancakes, quick]
+---
+
+## Ingredients
+
+- 2 cups mashed potatoes
+- 1 cup all-purpose flour
+- 1 onion, diced
+- 1 egg
+- 1/2 teaspoon ground black pepper
+- 1/2 teaspoon salt
+- 1/2 cup vegetable oil, or as needed
+
+## Steps
+
+1. Mix mashed potatoes, flour, onion, egg, black pepper, and salt together in a bowl until batter consistency.
+2. Heat vegetable oil in a skillet over medium heat. Drop 4-inch circles of batter into hot oil. Cook until golden brown, about 5 minutes per side.
+3. Remove with a slotted spoon and drain on paper towels. Repeat with remaining batter.
+
+## Notes
+
+From Allrecipes.com. Great with any meal or as a snack, and simple and quick with only a few ingredients. Prep 10m, cook 10m. Serves is an estimate; the card gave no yield.
