@@ -13,3 +13,4 @@ One line per recipe: file, title, total time, tags.
 - `recipes/the-influence.md`: The Influence, cocktail, underberg, old-fashioned
 - `recipes/alpine-sour.md`: Alpine Sour, cocktail, underberg, sour
 - `recipes/corrections.md`: Corrections, cocktail, underberg, amaro
+- `recipes/ice-berg.md`: Ice-Berg, cocktail, underberg, blended
