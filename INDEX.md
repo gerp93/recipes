@@ -56,3 +56,4 @@ One line per recipe: file, title, total time, tags.
 - `recipes/north-dakota-caramel-rolls.md`: North Dakota Caramel Rolls, rolls, caramel, breakfast, yeast, north-dakota
 - `recipes/old-fashioned-potato-cakes.md`: Old Fashioned Potato Cakes, 20m, potato, side-dish, pancakes, quick
 - `recipes/old-fashioned-potato-soup.md`: Old-Fashioned Potato Soup, 45m, soup, potato, cream-soup, dinner
+- `recipes/one-skillet-beef-stroganoff-tortellini.md`: One-Skillet Beef Stroganoff Tortellini, 30m, beef, stroganoff, pasta, tortellini, skillet, dinner
