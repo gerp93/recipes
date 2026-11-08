@@ -16,4 +16,4 @@ One line per recipe: file, title, total time, tags.
 - `recipes/ice-berg.md`: Ice-Berg, cocktail, underberg, blended
 - `recipes/mantequilla.md`: Mantequilla, cocktail, underberg, tiki
 - `recipes/breadsticks.md`: Breadsticks, 35m, bread, breadsticks, yeast
-
+- `recipes/apple-crisp-ii.md`: Apple Crisp II, 1h 20m, dessert, apple, fruit, baked
