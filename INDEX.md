@@ -41,3 +41,4 @@ One line per recipe: file, title, total time, tags.
 - `recipes/easy-homemade-beef-stroganoff.md`: Easy Homemade Beef Stroganoff, 30m, beef, stroganoff, dinner, skillet, noodles
 - `recipes/easy-pizza-sauce.md`: Easy Pizza Sauce, 5m, sauce, pizza, quick, blender
 - `recipes/easy-sangria-slushies.md`: Easy Sangria Slushies, drink, sangria, slushie, frozen, party
+- `recipes/easy-slow-cooker-french-dip.md`: Easy Slow Cooker French Dip, 7h 10m, beef, slow-cooker, sandwich, french-dip
