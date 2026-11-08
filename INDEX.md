@@ -50,3 +50,4 @@ One line per recipe: file, title, total time, tags.
 - `recipes/honey-mustard.md`: Honey Mustard, 5m, sauce, dressing, dip, quick
 - `recipes/how-to-reverse-sear-a-steak.md`: How To Reverse Sear a Steak, 40m, beef, steak, reverse-sear, oven, cast-iron
 - `recipes/instant-pot-korean-beef.md`: Instant Pot Korean Beef, beef, korean, instant-pot, pressure-cooker, dinner
+- `recipes/instant-pot-pulled-pork.md`: Instant Pot Pulled Pork, 10h 20m, pork, pulled-pork, instant-pot, pressure-cooker, dinner
