@@ -26,3 +26,4 @@ One line per recipe: file, title, total time, tags.
 - `recipes/boeuf-bourguignon.md`: Boeuf Bourguignon, beef, stew, french, dutch-oven
 - `recipes/breadstick-dough.md`: Breadstick Dough, bread, breadsticks, yeast, pizza, appetizer
 - `recipes/broccoli-potato-corn-chowder.md`: Broccoli, Potato, Corn Chowder, soup, chowder, broccoli, potato
+- `recipes/buttermilk-pancakes.md`: Buttermilk Pancakes, 30m, breakfast, pancakes, buttermilk
