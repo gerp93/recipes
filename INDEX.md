@@ -22,3 +22,4 @@ One line per recipe: file, title, total time, tags.
 - `recipes/banana-bread.md`: Banana Bread, 1h 35m, bread, breakfast, dessert, banana, trinity-cookbook
 - `recipes/banana-cream-pie.md`: Banana Cream Pie, 40m, dessert, pie, banana, no-bake-filling
 - `recipes/best-lemonade-ever.md`: Best Lemonade Ever, 4h 35m, drink, lemonade, summer
+- `recipes/best-slow-cooker-french-dip-sandwiches.md`: Best Slow Cooker French Dip Sandwiches, beef, slow-cooker, sandwich, french-dip
