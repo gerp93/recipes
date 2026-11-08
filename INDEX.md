@@ -63,3 +63,4 @@ One line per recipe: file, title, total time, tags.
 - `recipes/peanut-sauce.md`: Peanut Sauce, sauce, peanut, quick, blender, make-ahead
 - `recipes/peppermint-bavarian-cream-pie.md`: Peppermint Bavarian Cream Pie, 9h 10m, dessert, pie, peppermint, chocolate, christmas, no-bake
 - `recipes/peppermint-pie-candy-cane-pie.md`: Peppermint Pie (Candy Cane Pie), 15m, dessert, pie, peppermint, christmas, no-bake
+- `recipes/perfect-tuna-steak.md`: Perfect Tuna Steak, 25m, fish, tuna, quick, skillet
