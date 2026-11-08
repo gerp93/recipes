@@ -45,3 +45,4 @@ One line per recipe: file, title, total time, tags.
 - `recipes/eggplant-parmesan-ii.md`: Eggplant Parmesan II, 1h, eggplant, italian, baked, vegetarian, dinner
 - `recipes/grilled-broccoli-with-lemon-parmesan.md`: Grilled Broccoli with Lemon & Parmesan, vegetable, broccoli, grill, side-dish
 - `recipes/ham-balls.md`: Ham Balls, ham, dinner, meat, oven
+- `recipes/homemade-bread-bowls.md`: Homemade Bread Bowls, 2h 30m, bread, bread-bowls, yeast, soup-bowl
