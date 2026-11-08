@@ -10,3 +10,4 @@ One line per recipe: file, title, total time, tags.
 - `recipes/huntington-chicken.md`: Huntington Chicken, chicken, casserole, family-recipe
 - `recipes/heath-bar-cake.md`: Heath Bar Cake, cake, dessert, chocolate, family-recipe
 - `recipes/imperial-bulldog.md`: Imperial Bulldog, cocktail, underberg, tiki
+- `recipes/the-influence.md`: The Influence, cocktail, underberg, old-fashioned
