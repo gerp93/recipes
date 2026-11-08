@@ -36,3 +36,4 @@ One line per recipe: file, title, total time, tags.
 - `recipes/chicken-hot-dish.md`: Chicken Hot Dish, chicken, hot-dish, casserole
 - `recipes/classic-smash-burger.md`: Classic Smash Burger, burger, beef, grill, dinner
 - `recipes/crockpot-beef-tips-noodles.md`: Crockpot Beef Tips & Noodles, beef, crockpot, slow-cooker, noodles
+- `recipes/crockpot-french-dip-sandwiches.md`: Crockpot French Dip Sandwiches, beef, crockpot, slow-cooker, sandwich, french-dip
