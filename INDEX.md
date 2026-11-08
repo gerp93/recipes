@@ -60,3 +60,4 @@ One line per recipe: file, title, total time, tags.
 - `recipes/oven-baked-korean-bbq-beef-ribs.md`: Oven Baked Korean BBQ Beef Ribs, 8h 5m, beef, korean, ribs, oven, slow-roast
 - `recipes/peanut-butter-chocolate-chip-cookies.md`: Peanut Butter Chocolate Chip Cookies, cookies, dessert, peanut-butter, chocolate-chip
 - `recipes/peanut-butter-cookies-2.md`: Peanut Butter Cookies 2, cookies, dessert, peanut-butter, sweets
+- `recipes/peanut-sauce.md`: Peanut Sauce, sauce, peanut, quick, blender, make-ahead
