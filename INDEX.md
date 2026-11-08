@@ -70,3 +70,4 @@ One line per recipe: file, title, total time, tags.
 - `recipes/pork-schnitzel.md`: Pork Schnitzel, 35m, pork, schnitzel, german, breaded, dinner
 - `recipes/prime-rib-breakfast-sandwich.md`: Prime Rib Breakfast Sandwich, breakfast, sandwich, prime-rib, leftovers
 - `recipes/prime-rib-roast.md`: Prime Rib Roast, 5h, beef, prime-rib, roast, holiday, dinner
+- `recipes/quick-rhubarb-dessert.md`: Quick Rhubarb Dessert, 1h 5m, dessert, rhubarb, oven, easy
