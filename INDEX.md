@@ -68,3 +68,4 @@ One line per recipe: file, title, total time, tags.
 - `recipes/pizza-dough-master-recipe.md`: Pizza Dough Master Recipe, 1h, pizza, dough, yeast, italian
 - `recipes/pizza-sauce-with-fresh-tomatoes.md`: Pizza Sauce with Fresh Tomatoes, 1h 40m, sauce, pizza, tomato, fresh-tomatoes
 - `recipes/pork-schnitzel.md`: Pork Schnitzel, 35m, pork, schnitzel, german, breaded, dinner
+- `recipes/prime-rib-breakfast-sandwich.md`: Prime Rib Breakfast Sandwich, breakfast, sandwich, prime-rib, leftovers
