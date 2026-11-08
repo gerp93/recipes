@@ -12,3 +12,4 @@ One line per recipe: file, title, total time, tags.
 - `recipes/imperial-bulldog.md`: Imperial Bulldog, cocktail, underberg, tiki
 - `recipes/the-influence.md`: The Influence, cocktail, underberg, old-fashioned
 - `recipes/alpine-sour.md`: Alpine Sour, cocktail, underberg, sour
+- `recipes/corrections.md`: Corrections, cocktail, underberg, amaro
