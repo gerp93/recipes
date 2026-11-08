@@ -30,3 +30,4 @@ One line per recipe: file, title, total time, tags.
 - `recipes/buttermilk-pancakes-2.md`: Buttermilk Pancakes 2, 30m, breakfast, pancakes, buttermilk
 - `recipes/caramelized-ham-swiss-buns.md`: Caramelized Ham & Swiss Buns, 55m, appetizer, ham, sandwich, party, make-ahead
 - `recipes/champagne-margaritas.md`: Champagne Margaritas, 7m, cocktail, margarita, champagne, party
+- `recipes/cheesy-potato-casserole-with-corn-flakes.md`: Cheesy Potato Casserole with Corn Flakes, 1h 10m, potato, casserole, side-dish, cheesy
