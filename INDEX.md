@@ -78,3 +78,4 @@ One line per recipe: file, title, total time, tags.
 - `recipes/steak-with-garlic-cream-sauce.md`: Steak with Garlic Cream Sauce, 30m, beef, steak, cream-sauce, garlic, quick
 - `recipes/strawberry-rhubarb-pie.md`: Strawberry Rhubarb Pie, 1h 10m, dessert, pie, rhubarb, strawberry
 - `recipes/taco-pie.md`: Taco Pie, 40m, beef, taco, casserole, dinner, cookbook
+- `recipes/the-best-pizza-dough-recipe.md`: The Best Pizza Dough Recipe, 30m, pizza, dough, yeast, quick
