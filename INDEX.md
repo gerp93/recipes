@@ -19,3 +19,4 @@ One line per recipe: file, title, total time, tags.
 - `recipes/apple-crisp-ii.md`: Apple Crisp II, 1h 20m, dessert, apple, fruit, baked
 - `recipes/authentic-german-spaetzle.md`: Authentic German Spaetzle, 35m, german, pasta, side-dish, spaetzle
 - `recipes/baked-beans.md`: Baked Beans, beans, side-dish, baked, trinity-cookbook
+- `recipes/banana-bread.md`: Banana Bread, 1h 35m, bread, breakfast, dessert, banana, trinity-cookbook
