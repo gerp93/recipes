@@ -21,3 +21,4 @@ One line per recipe: file, title, total time, tags.
 - `recipes/baked-beans.md`: Baked Beans, beans, side-dish, baked, trinity-cookbook
 - `recipes/banana-bread.md`: Banana Bread, 1h 35m, bread, breakfast, dessert, banana, trinity-cookbook
 - `recipes/banana-cream-pie.md`: Banana Cream Pie, 40m, dessert, pie, banana, no-bake-filling
+- `recipes/best-lemonade-ever.md`: Best Lemonade Ever, 4h 35m, drink, lemonade, summer
