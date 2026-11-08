@@ -55,3 +55,4 @@ One line per recipe: file, title, total time, tags.
 - `recipes/korean-bbq-short-ribs-gal-bi.md`: Korean BBQ Short Ribs (Gal-Bi), 7h 25m, beef, korean, short-ribs, grill, marinade
 - `recipes/north-dakota-caramel-rolls.md`: North Dakota Caramel Rolls, rolls, caramel, breakfast, yeast, north-dakota
 - `recipes/old-fashioned-potato-cakes.md`: Old Fashioned Potato Cakes, 20m, potato, side-dish, pancakes, quick
+- `recipes/old-fashioned-potato-soup.md`: Old-Fashioned Potato Soup, 45m, soup, potato, cream-soup, dinner
