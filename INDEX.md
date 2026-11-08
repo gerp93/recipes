@@ -51,3 +51,4 @@ One line per recipe: file, title, total time, tags.
 - `recipes/how-to-reverse-sear-a-steak.md`: How To Reverse Sear a Steak, 40m, beef, steak, reverse-sear, oven, cast-iron
 - `recipes/instant-pot-korean-beef.md`: Instant Pot Korean Beef, beef, korean, instant-pot, pressure-cooker, dinner
 - `recipes/instant-pot-pulled-pork.md`: Instant Pot Pulled Pork, 10h 20m, pork, pulled-pork, instant-pot, pressure-cooker, dinner
+- `recipes/it-s-way-better-than-thanksgiving-turkey-turkey.md`: It's Way Better Than Thanksgiving Turkey Turkey, 4h 15m, turkey, poultry, roast, gravy, holiday
