@@ -21,7 +21,7 @@ tags: [chicken, weeknight, skillet, lemon]
   - `serves` is a whole number.
   - Times look like `25m`, `1h`, or `1h 30m`.
   - `tags` are lowercase words, with dashes instead of spaces, inside square brackets and separated by commas.
-  - Leave out `active_time` only if I didn't give one. Never invent a value.
+  - `active_time` and `total_time` are both optional. Leave out any time I didn't give, along with its line. Never ask me for a time and never invent one.
 
 - Then a `## Ingredients` heading and a flat bullet list, amount first: `1 lb chicken breast`, not `chicken breast (1 lb)`.
 - Then a `## Steps` heading and a numbered list, one action per step.
@@ -32,7 +32,7 @@ tags: [chicken, weeknight, skillet, lemon]
 ## How to save a recipe
 
 1. Read this file first.
-2. Read the recipe back to me in short form: title, serves, total time. Wait for me to say yes. Write nothing before that.
+2. Read the recipe back to me in short form: title and serves, plus the total time only if I gave one. Wait for me to say yes. Write nothing before that.
 3. Check that `recipes/<name>.md` doesn't already exist. If it does, tell me and ask before changing it.
 4. Write the file. Use the commit message `Add recipe: <title>`.
 5. Add one line to `INDEX.md`, in the same format as the existing lines:
@@ -40,6 +40,8 @@ tags: [chicken, weeknight, skillet, lemon]
 ```
 - `recipes/<file>.md`: <Title>, <total time>, <tags separated by commas>
 ```
+
+   Leave out the total time (and its comma) if the recipe has none.
 
    If `INDEX.md` doesn't exist, create it with the heading `# Recipe index` first.
 6. Tell me the file name you saved, in one sentence.
