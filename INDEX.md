@@ -67,3 +67,4 @@ One line per recipe: file, title, total time, tags.
 - `recipes/pierogi-burger.md`: Pierogi Burger, 1h 30m, burger, pierogi, beef, potato, main-course
 - `recipes/pizza-dough-master-recipe.md`: Pizza Dough Master Recipe, 1h, pizza, dough, yeast, italian
 - `recipes/pizza-sauce-with-fresh-tomatoes.md`: Pizza Sauce with Fresh Tomatoes, 1h 40m, sauce, pizza, tomato, fresh-tomatoes
+- `recipes/pork-schnitzel.md`: Pork Schnitzel, 35m, pork, schnitzel, german, breaded, dinner
