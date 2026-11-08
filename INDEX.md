@@ -75,3 +75,4 @@ One line per recipe: file, title, total time, tags.
 - `recipes/roasted-red-cabbage.md`: Roasted Red Cabbage, vegetable, cabbage, side-dish, roasted
 - `recipes/russian-mushroom-and-potato-soup.md`: Russian Mushroom and Potato Soup, 1h, soup, mushroom, potato, vegetable, fall
 - `recipes/steak-gorgonzola.md`: Steak Gorgonzola, beef, steak, pasta, gorgonzola, dinner
+- `recipes/steak-with-garlic-cream-sauce.md`: Steak with Garlic Cream Sauce, 30m, beef, steak, cream-sauce, garlic, quick
