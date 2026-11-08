@@ -17,3 +17,4 @@ One line per recipe: file, title, total time, tags.
 - `recipes/mantequilla.md`: Mantequilla, cocktail, underberg, tiki
 - `recipes/breadsticks.md`: Breadsticks, 35m, bread, breadsticks, yeast
 - `recipes/apple-crisp-ii.md`: Apple Crisp II, 1h 20m, dessert, apple, fruit, baked
+- `recipes/authentic-german-spaetzle.md`: Authentic German Spaetzle, 35m, german, pasta, side-dish, spaetzle
