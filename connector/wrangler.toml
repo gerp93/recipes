@@ -1,0 +1,11 @@
+name = "recipe-connector"
+main = "src/worker.ts"
+compatibility_date = "2026-11-01"
+
+[vars]
+RECIPES_REPO = "gerp93/recipes"
+RECIPES_BRANCH = "main"
+
+# Secrets (set with `npx wrangler secret put <NAME>`, never stored in this file):
+#   GITHUB_TOKEN      fine-grained token for the recipes repo, Contents: read and write
+#   CONNECTOR_SECRET  random string, at least 24 characters, used in the connector URL
