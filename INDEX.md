@@ -65,3 +65,4 @@ One line per recipe: file, title, total time, tags.
 - `recipes/peppermint-pie-candy-cane-pie.md`: Peppermint Pie (Candy Cane Pie), 15m, dessert, pie, peppermint, christmas, no-bake
 - `recipes/perfect-tuna-steak.md`: Perfect Tuna Steak, 25m, fish, tuna, quick, skillet
 - `recipes/pierogi-burger.md`: Pierogi Burger, 1h 30m, burger, pierogi, beef, potato, main-course
+- `recipes/pizza-dough-master-recipe.md`: Pizza Dough Master Recipe, 1h, pizza, dough, yeast, italian
