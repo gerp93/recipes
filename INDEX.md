@@ -48,3 +48,4 @@ One line per recipe: file, title, total time, tags.
 - `recipes/homemade-bread-bowls.md`: Homemade Bread Bowls, 2h 30m, bread, bread-bowls, yeast, soup-bowl
 - `recipes/homemade-currywurst.md`: Homemade Currywurst, german, sauce, sausage, bratwurst, quick
 - `recipes/honey-mustard.md`: Honey Mustard, 5m, sauce, dressing, dip, quick
+- `recipes/how-to-reverse-sear-a-steak.md`: How To Reverse Sear a Steak, 40m, beef, steak, reverse-sear, oven, cast-iron
