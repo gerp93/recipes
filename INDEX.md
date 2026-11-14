@@ -80,3 +80,4 @@ One line per recipe: file, title, total time, tags.
 - `recipes/taco-pie.md`: Taco Pie, 40m, beef, taco, casserole, dinner, cookbook
 - `recipes/the-best-pizza-dough-recipe.md`: The Best Pizza Dough Recipe, 30m, pizza, dough, yeast, quick
 - `recipes/the-best-way-to-cook-absolutely-perfect-filet-mignon.md`: The Best Way to Cook Absolutely Perfect Filet Mignon, beef, steak, filet-mignon, cast-iron, dinner
+- `recipes/buttermilk-pancakes-for-one.md`: Buttermilk Pancakes for One, 20m, breakfast, pancakes, buttermilk, single-serving
