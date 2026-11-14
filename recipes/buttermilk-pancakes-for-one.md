@@ -32,4 +32,4 @@ tags: [breakfast, pancakes, buttermilk, single-serving]
 
 ## Notes
 
-Makes about 3 medium pancakes. Lumps in the batter are fine; overmixing makes them tough. A single-serving alternative to the 4-serving Buttermilk Pancakes recipes.
+Makes about 3 medium pancakes. Lumps in the batter are fine; overmixing makes them tough. A single-serving alternative to the 4-serving Buttermilk Pancakes recipes. Cast iron runs hotter in the middle, so the centers can cook before the edges and the pancakes can turn out dry. Turn the heat down a notch, let the pan sit a minute to even out, add a little more butter to the pan, and use the full 1/2 cup of buttermilk for a looser batter.
