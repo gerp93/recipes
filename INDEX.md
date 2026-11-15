@@ -81,4 +81,4 @@ One line per recipe: file, title, total time, tags.
 - `recipes/the-best-pizza-dough-recipe.md`: The Best Pizza Dough Recipe, 30m, pizza, dough, yeast, quick
 - `recipes/the-best-way-to-cook-absolutely-perfect-filet-mignon.md`: The Best Way to Cook Absolutely Perfect Filet Mignon, beef, steak, filet-mignon, cast-iron, dinner
 - `recipes/buttermilk-pancakes-for-one.md`: Buttermilk Pancakes for One, 20m, breakfast, pancakes, buttermilk, single-serving
-
+- `recipes/thai-strip-steak-with-sweet-soy-chili-sauce.md`: Thai Strip Steak with Sweet Soy Chili Sauce, beef, steak, thai, reverse-sear, marinade, dinner
