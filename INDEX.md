@@ -82,3 +82,4 @@ One line per recipe: file, title, total time, tags.
 - `recipes/the-best-way-to-cook-absolutely-perfect-filet-mignon.md`: The Best Way to Cook Absolutely Perfect Filet Mignon, beef, steak, filet-mignon, cast-iron, dinner
 - `recipes/buttermilk-pancakes-for-one.md`: Buttermilk Pancakes for One, 20m, breakfast, pancakes, buttermilk, single-serving
 - `recipes/thai-strip-steak-with-sweet-soy-chili-sauce.md`: Thai Strip Steak with Sweet Soy Chili Sauce, beef, steak, thai, reverse-sear, marinade, dinner
+- `recipes/slow-cooker-creamed-corn.md`: Slow Cooker Creamed Corn, side-dish, corn, slow-cooker, thanksgiving, make-ahead
